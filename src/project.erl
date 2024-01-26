@@ -4,6 +4,9 @@
 
 %%--------------------------
 %% Project - Task Manager
+%% 
+%% Project Information
+%% https://github.com/tja58/Erlang-task_manager
 %%--------------------------
 
 %%--------------------------
